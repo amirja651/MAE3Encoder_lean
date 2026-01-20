@@ -8,9 +8,10 @@
   "platforms": ["espressif32"],
   "headers": ["MAE3Encoder_lean.h"],
   "authors": [
-  {
-    "name": "Amir Mohammadi",
-    "email": "amirja651@gmail.com"
-  }],
+    {
+      "name": "Amir Mohammadi",
+      "email": "amirja651@gmail.com"
+    }
+  ],
   "homepage": "https://github.com/amirja651/MAE3Encoder_lean"
 }
